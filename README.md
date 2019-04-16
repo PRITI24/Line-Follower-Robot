@@ -10,7 +10,8 @@ It works in the way such that directions are shown by sensors input and accordin
 
 # 3.What are ir sensors?
 IR sensors are called infrared sensors they emit infrared radiation through emitter placed on ir sensors and signals are received through receiver placed on ir sensors.Received values depends on obtacle in path of infrared radiation. 
-
+idth.
+![alt text](https://i1.wp.com/henrysbench.capnfatz.com/wp-content/uploads/2015/06/Arduino-IR-Collision-Detection-Module-Pin-Outs.png)
 # 4.How IR sensors are interfaced and what is interfacing?
 Interfacing an ir sensors with arduino means operating ir sensors using arduino codes.Interfacing is important to get the sensors value on white and black colour sinnce different sensors give differentt values on black and white.we first tried to understand that how many pins are there on ir sensors and what are their functions.we got to know that that 3 pins and....
 1.output
