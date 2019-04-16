@@ -1,6 +1,6 @@
 # Line-Follower-Robot
 White Line Following on black path using IR sensors(Gives 1-black, 0-white)
-# LINE FOLLOWER USING TWO IR SENSORS
+# LINE FOLLOWER USING THREE IR SENSORS
 # 1.What is line follower robot?
 Line follower robot is something which follows a particular line ,it may be black on white background (or)white on black background.Here we are using white on black background.
 
