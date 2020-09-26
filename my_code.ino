@@ -9,9 +9,10 @@ int b=0;
 int c=0;
 void setup() 
 {
-  // put your setup code here, to run once:
+  //Configuring IR sensor pins
 pinMode(LS,INPUT);
 pinMode(RS,INPUT);
+  //Configuring motor driver pins-GND,PWM,Dir
 pinMode(dirL,OUTPUT);
 pinMode(dirR,OUTPUT);
 pinMode(pwmL,OUTPUT);
